@@ -22,7 +22,12 @@ Build Instructions
 
 `\qemu.sh` - To execute emulation.
 
+Pre-Built Images
+----------------
+
+- Check the [Release][4] page for pre-built images which you can test out on a variety of hardware or emulation software.
 
 [1]: https://drive.google.com/file/d/0Bw6lG3Ej2746STJaM2dNbC05elE/view
 [2]: https://wiki.osdev.org/GCC_Cross-Compiler#Using_the_new_Compiler
 [3]: https://packages.debian.org/sid/qemu-system-common
+[4]: 
