@@ -20,9 +20,8 @@ Build Instructions
 
 **Finally**, if you want to run the file using Qemu (if [qemu-system-common][3] installed), run the following script to emulate:
 
-`\qemu.sh`
+`\qemu.sh` - To execute emulation.
 
-**DONE!**
 
 [1]: https://drive.google.com/file/d/0Bw6lG3Ej2746STJaM2dNbC05elE/view
 [2]: https://wiki.osdev.org/GCC_Cross-Compiler#Using_the_new_Compiler
