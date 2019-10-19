@@ -7,3 +7,6 @@ This repository currently contains the Avis Kernel for the project along with ba
 
 Build Instructions
 ------------------
+1. From the `/meaty-skeleton` directory, run the scripts in the following order:
+
+- `clean.sh` -->
