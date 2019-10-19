@@ -9,4 +9,4 @@ Build Instructions
 ------------------
 1. From the `/meaty-skeleton` directory, run the scripts in the following order:
 
-- `clean.sh` -->
+- `clean.sh` -- T
