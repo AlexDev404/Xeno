@@ -18,7 +18,7 @@ Build Instructions
 
 - `\iso.sh` - Now, this script will compile everything together into a working ISO file that can be run on any machine supported by the build.
 
-**Finally**, if you want to run the file using Qemu (if [qemu-system-common][3] installed), run the following script to emulate:
+**Finally**, if you want to run the file using Qemu (if [qemu-system-common][3] installed), run the following script:
 
 `\qemu.sh` - To execute emulation.
 
