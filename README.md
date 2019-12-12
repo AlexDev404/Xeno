@@ -1,4 +1,4 @@
-# Xeon OS AKA `"The New Windows"`
+# [Xeon OS][6] AKA `"The New Windows"`
 An X86-64 Operating System built from scratch in C
 <br>
 Any **useful** contributions are allowed
@@ -38,3 +38,4 @@ Contact Info
 [3]: https://packages.debian.org/sid/qemu-system-common
 [4]: https://github.com/AlexDev404/Xeon/releases
 [5]: mailto:rexydogwoof@gmail.com
+[6]: https://xeonos.ml
