@@ -1,5 +1,5 @@
 # [Xeon OS][6] AKA `"The New Windows"`
-An X86-64 Operating System built from scratch in C
+An X86-64 Operating System built from scratch in C (Dream Big? Right?)
 <br>
 Any **useful** contributions are allowed
 <br>
