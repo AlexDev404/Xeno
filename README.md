@@ -1,9 +1,9 @@
 # [Xeon OS][6] AKA `"The New Windows"`
 An X86-64 Operating System built from scratch in C (Dream Big? Right?)
 <br>
-Any **useful** contributions are allowed
+Any **useful** contributions are allowed.
 <br>
-This repository currently contains the Avis Kernel for the project along with basic **libk** and **libc**
+This repository currently contains the `**Avis Kernel**` for the project along with basic XOS **Libk** and the XOS **Libc**
 
 Build Instructions
 ------------------
