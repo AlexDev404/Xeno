@@ -1,4 +1,4 @@
-# [Xeon OS][6] - Just an Operating System
+# [Xeno OS][6] - Just an Operating System
 An X86-64 Operating System built from scratch in C
 <br>
 Any **useful** contributions are allowed.
@@ -36,6 +36,6 @@ Contact Info
 [1]: https://drive.google.com/file/d/0Bw6lG3Ej2746STJaM2dNbC05elE/view
 [2]: https://wiki.osdev.org/GCC_Cross-Compiler#Using_the_new_Compiler
 [3]: https://packages.debian.org/sid/qemu-system-common
-[4]: https://github.com/AlexDev404/Xeon/releases
+[4]: https://github.com/AlexDev404/Xeno/releases
 [5]: mailto:rexydogwoof@gmail.com
 [6]: https://xeonos.ml
