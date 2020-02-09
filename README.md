@@ -1,3 +1,5 @@
+> NOTE: Repo's name has been changed from **XeonOS** to **XenoOS** to prevent trademark issues with Intel
+
 # [Xeno OS][6] - Just an Operating System
 An X86-64 Operating System built from scratch in C
 <br>
