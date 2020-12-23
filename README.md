@@ -33,7 +33,7 @@ Contact Info
 -------------
 
 - Have any questions/requests/issues? Feel free to contact me at:
-  [rexydogwoof@gmail.com][5] <br>or if you want, you can check out our website (still in development) at:  [XeonOS.ml][6].
+  [rexydogwoof@gmail.com][5] <br>or if you want, you can check out our website (still in development) at:  [...][6].
 
 [1]: https://drive.google.com/file/d/0Bw6lG3Ej2746STJaM2dNbC05elE/view
 [2]: https://wiki.osdev.org/GCC_Cross-Compiler#Using_the_new_Compiler
