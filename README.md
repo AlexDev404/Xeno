@@ -40,4 +40,4 @@ Contact Info
 [3]: https://packages.debian.org/sid/qemu-system-common
 [4]: https://github.com/AlexDev404/Xeno/releases
 [5]: mailto:rexydogwoof@gmail.com
-[6]: https://xeonos.ml
+[6]: about:blank
