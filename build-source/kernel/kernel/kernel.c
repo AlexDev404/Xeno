@@ -4,8 +4,6 @@
 
 void kernel_main(void) {
 
-	int x =5;
-
 	terminal_initialize();
 	printf("X");
 }
