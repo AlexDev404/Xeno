@@ -1,3 +1,4 @@
+# MOVED TO: https://github.com/AlexDev404/SquirrelOS
 > NOTE: Repo's name has been changed from **XeonOS** to **XenoOS** to prevent trademark issues with Intel
 
 # [Xeno OS][6] - An Operating System in C
